@@ -1,0 +1,9 @@
+{
+  "domain": "hass_agent",
+  "name": "Hass Agent",
+  "config_flow": true,
+  "dependencies": ["conversation"],
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "version": "0.0.1"
+}

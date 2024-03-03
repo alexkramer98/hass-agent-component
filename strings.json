@@ -1,0 +1,13 @@
+{
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "prompt": "Prompt Template?",
+          "model": "Completion Model!",
+          "temperature": "Temperature!"
+        }
+      }
+    }
+  }
+}
